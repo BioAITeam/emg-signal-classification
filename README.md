@@ -32,5 +32,5 @@ pages="117--128"
 }
 ```
 
-This paper was published as a journal paper in IEEE Access. ([Webpage](https://link.springer.com/chapter/10.1007/978-3-030-78901-5_11))
+This paper was published as a journal paper in Springer International Publishing. ([Webpage](https://link.springer.com/chapter/10.1007/978-3-030-78901-5_11))
 
